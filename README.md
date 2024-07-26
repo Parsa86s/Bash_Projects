@@ -1,17 +1,31 @@
-A Bash script to organize files in a directory based on their extensions. This script first counts the files in the specified directory, then organizes them into subdirectories named after their file extensions. After organizing the files, it prompts the user to confirm whether they want to keep the organized structure. If the user decides not to keep it, the script will revert the organization and restore the original file arrangement.
+# File Organizer
 
-Features:
+A Bash script to organize files in a directory based on their extensions. This script counts the files in the specified directory, organizes them into subdirectories named after their file extensions, and provides an option to revert the changes if the user chooses not to keep the organized structure.
 
-Prompts the user for the directory path.
-Counts the files in the specified directory.
-Organizes files into subdirectories based on their extensions.
-Provides user confirmation to keep or revert changes.
-Ensures created directories have appropriate permissions for user access.
-Usage:
+## Features
 
-Run the script: ./file_organizer.sh
-Enter the path to the directory you want to organize.
-Confirm if you want to keep the files organized or revert changes.
-This script helps in managing and organizing files by their types, making it easier to locate and handle files based on their extensions.
+- Prompts the user for the directory path.
+- Counts the number of files in the specified directory.
+- Organizes files into subdirectories based on their extensions.
+- Asks the user for confirmation to keep or revert the changes.
+- Ensures directories have appropriate permissions for user access.
 
-Author : Parsa Saadat :)
+## Prerequisites
+
+- Ensure you have [Git](https://git-scm.com/) installed.
+- Ensure you have [Bash](https://www.gnu.org/software/bash/) installed (commonly available on Unix-like systems).
+
+## Installation
+
+1. **Clone the Repository**:
+   Open a terminal and run the following command to clone the repository to your local machine:
+   ```bash
+   git clone https://github.com/yourusername/file_organizer.git
+2. **Navigate to the Project Directory**:
+  cd file_organizer
+
+3. **Make the Script Executable**:
+  chmod +x file_organizer.sh
+
+4. **Execute the script by running**:
+  ./file_organizer.sh\
