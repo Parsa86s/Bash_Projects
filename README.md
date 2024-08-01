@@ -45,3 +45,5 @@ It will then prompt you to add the alias for root mode as well.
 - Root Mode:
 If the alias is not present, it will add it and reload the shell.
 If the alias is already present, it will notify you.
+
+Author: Parsa Saadat :)
