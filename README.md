@@ -22,7 +22,7 @@ A Bash script to add a cls alias for clearing the terminal screen in Debian-base
 ## Installation
 
 1. **Clone the Repository**:
-  Open a terminal and run the following command to clone the repository to your local machine:
+  Open a terminal and run the following command to clone the repository to your local machine:  
   git clone https://github.com/yourusername/cls-alias.git
 
 2. **Navigate to the Project Directory**:
