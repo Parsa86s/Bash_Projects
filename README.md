@@ -15,6 +15,16 @@ Welcome to the Hash Cracker project! This script allows you to crack hashed pass
 
 1. Clone the repository or download the script directly.
 2. Ensure you have Hashcat installed on your machine.
-3. Run the script in your terminal:
+
+
+### Making the Script Executable
+
+Before running the script, ensure it is executable by using the following command in your terminal :
+
+```bash
+chmod +x hash_cracker.sh
+```
+
+### Run the script in your terminal
    ```bash
    bash hash_cracker.sh
