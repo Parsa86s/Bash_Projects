@@ -2,14 +2,17 @@
 
 ## Author: Parsa Saadat
 
-Welcome to the Hash Cracker project! This script allows you to crack hashed passwords using Hashcat. 
+Welcome to the Hash Cracker project ! This script allows you to crack hashed passwords using Hashcat. 
 
 ### Features
 
-- **Input a Wordlist**: Enter the path to your wordlist file, with up to 5 attempts to find a valid file.
-- **Select Hash Type**: Choose from MD5, SHA256, or SHA512, or let the script automatically detect the type.
-- **Crack Passwords**: Utilizes Hashcat to attempt to find the original password, displaying results directly in the terminal.
-- **Automatic Cleanup**: If the password is not found, the output file is automatically deleted without prompting.
+- **Input a Wordlist**: Enter the path to your wordlist file , with up to 5 attempts to find a valid file .
+  
+- **Select Hash Type**: Choose from MD5 , SHA256 , or SHA512 , or let the script automatically detect the type.
+  
+- **Crack Passwords**: Utilizes Hashcat to attempt to find the original password , displaying results directly in the terminal.
+  
+- **Automatic Cleanup**: If the password is not found , the output file is automatically deleted without prompting.
 
 ### Usage
 
