@@ -29,11 +29,12 @@ git clone https://github.com/yourusername/cls-alias.git
   cd cls-alias
 
 ## Usage
-1. **Make the Script Executable**:  
+1. **Make the Script Executable** :
 
     ```chmod +x cls-alias.sh```
 
-2. **Run the Script**:  
+2. **Run the Script** :
+
   ```./cls-alias.sh```
 
 ## Notice
