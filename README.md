@@ -21,11 +21,12 @@ A Bash script to organize files in a directory based on their extensions. This s
    Open a terminal and run the following command to clone the repository to your local machine:
    ```bash
    git clone https://github.com/yourusername/file_organizer.git
-2. **Navigate to the Project Directory**:
-  cd file_organizer
+   ```
+2. **Navigate to the Project Directory** :
+  ```cd file_organizer```
 
-3. **Make the Script Executable**:
-  chmod +x file_organizer.sh
+3. **Make the Script Executable** :
+  ```chmod +x file_organizer.sh```
 
-4. **Execute the script by running**:
-  ./file_organizer.sh\
+4. **Execute the script by running** :
+  ```./file_organizer.sh\```
