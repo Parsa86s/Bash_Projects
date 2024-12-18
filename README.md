@@ -19,7 +19,7 @@ This is a simple Bash script that allows you to copy the content of a file to th
 1. Clone this repository to your local machine or download the script file.
 2. Run the script using the following command:
    ```bash
-   bash Home.sh
+   bash copy.sh
    ```
 3. The script will prompt you to install xclip if it's not already installed.
 4. The script will then add the 'copy' function to your .bashrc (and optionally to root's .bashrc).
