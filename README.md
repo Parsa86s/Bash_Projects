@@ -35,7 +35,7 @@ git clone https://github.com/yourusername/cls-alias.git
 
 2. **Run the Script** :
 
-  ```./cls-alias.sh```
+    ```./cls-alias.sh```
 
 ## Notice
 When you run the script, it will check if the cls alias is already present in your `.bashrc` file:
