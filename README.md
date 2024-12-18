@@ -1,4 +1,6 @@
-# Cls-Alias
+# Adding Cls Alias
+
+## Author: Parsa Saadat
 
 A Bash script to add a cls alias for clearing the terminal screen in Debian-based Linux distributions. This script checks if the alias already exists, adds it if necessary, and provides options to manage the alias in both normal user and root modes.
 
