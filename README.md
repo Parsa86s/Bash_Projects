@@ -30,10 +30,11 @@ git clone https://github.com/yourusername/cls-alias.git
 
 ## Usage
 1. **Make the Script Executable**:  
-  chmod +x cls-alias.sh
+
+  ```chmod +x cls-alias.sh```
 
 2. **Run the Script**:  
-  ./cls-alias.sh
+  ```./cls-alias.sh```
 
 ## Notice
 When you run the script, it will check if the cls alias is already present in your `.bashrc` file:
@@ -45,5 +46,3 @@ It will then prompt you to add the alias for root mode as well.
 - Root Mode:
 If the alias is not present, it will add it and reload the shell.
 If the alias is already present, it will notify you.
-
-Author: Parsa Saadat :)
