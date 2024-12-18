@@ -1,4 +1,4 @@
-# Welcome to the Bash Projects Repository! 🎉
+# Welcome to the Bash Projects Repository! 
 
 The `main` branch is where you'll find the core content of this repository. We’ve put together a set of essential scripts and tools that we think are helpful. But we’re just getting started, and there’s much more to discover!
 
