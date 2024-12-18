@@ -1,5 +1,6 @@
 # File Organizer
 
+## Author: Parsa Saadat
 A Bash script to organize files in a directory based on their extensions. This script counts the files in the specified directory, organizes them into subdirectories named after their file extensions, and provides an option to revert the changes if the user chooses not to keep the organized structure.
 
 ## Features
