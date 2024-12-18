@@ -1,5 +1,7 @@
 # Copy Command Script
 
+## Author: Parsa Saadat
+
 This is a simple Bash script that allows you to copy the content of a file to the clipboard using the `xclip` utility. The script adds a custom 'copy' command to your `.bashrc` that you can use to copy the content of any file to your clipboard.
 
 ## Features
